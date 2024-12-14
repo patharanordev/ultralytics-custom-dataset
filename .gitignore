@@ -1,0 +1,7 @@
+models/*
+!models/.gitkeep
+!models/*.yaml
+projects/*
+!projects/.gitkeep
+scripts/*
+!scripts/.gitkeep
